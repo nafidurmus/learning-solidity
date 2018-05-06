@@ -9,7 +9,9 @@
 # Blokchain
 
 **Önceden**
-
+<p align="center">
+  <img id="awesome-audio-visualization" src="images/bank.pnj" alt="Logo AAV">
+</p>
 ```mermaid
 graph LR
 A[A Bank/Person] -- 100 tl  --> B((B Bank))
