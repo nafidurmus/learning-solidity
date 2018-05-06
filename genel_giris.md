@@ -10,7 +10,7 @@
 
 **Önceden**
 <p align="center">
-  <img id="awesome-audio-visualization" src="images/bank.pnj" alt="Logo AAV">
+  <img id="awesome-audio-visualization" src="images/bank.png" alt="Logo AAV">
 </p>
 ```mermaid
 graph LR
