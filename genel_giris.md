@@ -10,22 +10,17 @@
 
 **Önceden**
 <p align="center">
-  <img id="awesome-audio-visualization" src="images/bank.pnj" alt="Logo AAV">
+  <img id="awesome" src="images/bank.png" alt="Logo AAV">
 </p>
-```mermaid
-graph LR
-A[A Bank/Person] -- 100 tl  --> B((B Bank))
-B -- 95 tl --> D[B Bank/Person]
-A--1-3 gün--> D
-```
+
 - Satoshi bu alt yapıyı ortaya çıkarmadan önce birine para göndereceğimizde ilk olarak parayı bankaya gönderiyoruz. Sonra banka belli bir kesintiyle belli bir sürede göndermek istediğimiz yere ulaşıyor. Burada hem zaman hem de para kesintisiyle para kaybı yaşıyorduk.
 
 **Satoshi Nakamoto dan sonra**
 
-```mermaid
-graph LR
-A[A Bank/Person] -- 100 tl  -- -- 99.99 tl tl --> D[B Bank/Person]
-```
+<p align="center">
+  <img id="awesome" src="images/satoshi.png" alt="Logo AAV">
+</p>
+
 
 - Satoshi Nakamoto geliştirdiği bu teknolojiyle aradan bankayı kaldırdı. Aradan bankanın kalkmasıyla bekleme süreside kalkmış oldu. Gerçekleştireceğimiz bir işlemi beklemeden gerçekleştirebiliyoruz. Ayrıca bankaların yaptı kesintide hatrı sayılır derecede düştü. Hem zaman hem de para kaybı ortadan kalmış oldu.
 
@@ -48,28 +43,16 @@ A[A Bank/Person] -- 100 tl  -- -- 99.99 tl tl --> D[B Bank/Person]
 - Quorum -> J.P.Morgen : Blockchain alanında bağımsız bir şirket.
 
 **Klasik internet iletişimi**
-
-```mermaid
-graph TD;
-    A[Computer]-->B[Cloud];
-    B[Cloud]--> C[Azure];
-    B[Cloud]--> D[Amazon];
-    B[Cloud]--> E[Alibaba];
-   ```
+<p align="center">
+  <img id="awesome" src="images/klasik.png" alt="Logo AAV">
+</p>
 
 
 **Ethereum iletişimi**
+<p align="center">
+  <img id="awesome" src="images/ethereum.png" alt="Logo AAV">
+</p>
 
-```mermaid
-
-graph TD;
-    A[Computer]---B[Computer];
-    A[Computer]---C[Computer];
-    B[Computer]---D[Computer];
-    C[Computer]---D[Computer];
-    D[Computer]---A[Computer];
-    B[Computer]---C[Computer]
-```
 
 **Merkezi olmayan uygulamalar**
 - Güvenli
