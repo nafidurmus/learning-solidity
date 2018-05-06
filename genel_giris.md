@@ -10,11 +10,7 @@
 
 **Önceden**
 <p align="center">
-<<<<<<< HEAD
   <img id="awesome" src="images/bank.png" alt="Logo AAV">
-=======
-  <img id="awesome-audio-visualization" src="images/bank.png" alt="Logo AAV">
->>>>>>> 3b10915a37649513df74d56bfb2efb68ad11345d
 </p>
 
 - Satoshi bu alt yapıyı ortaya çıkarmadan önce birine para göndereceğimizde ilk olarak parayı bankaya gönderiyoruz. Sonra banka belli bir kesintiyle belli bir sürede göndermek istediğimiz yere ulaşıyor. Burada hem zaman hem de para kesintisiyle para kaybı yaşıyorduk.
