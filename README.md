@@ -1,1 +1,1 @@
- **Blockchain** teknolajisini  ve **Solidity** dilini öğrenirken edindiğim bilgileri burada paylaşacağım.
+ **Blockchain** teknolojisini  ve **Solidity** dilini öğrenirken edindiğim bilgileri burada paylaşacağım.
